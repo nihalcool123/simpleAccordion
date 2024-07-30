@@ -32,6 +32,6 @@
 }
 
 .content.show {
-  height: auto;
+  width: auto;
   max-height: 9999px;
 }
